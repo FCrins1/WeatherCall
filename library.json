@@ -1,0 +1,25 @@
+{
+"name": "Weathercall",
+"keywords": "Weather, OpenWeather, web, esp32, arduino",
+"description": "Library to get current weather and forecast from openweather in various variables, inspired by https://github.com/dushyantahuja/SimpleWeather; tested on ESP32. Require ArduinoJson",
+"homepage": "https://nuton.group",
+"repository": {
+  "type": "git",
+  "url": "https://github.com/FCrins1/WeatherCall.git"
+},
+"version": "0.9.0",
+"authors": {
+  "name": "François Crins",
+  "url": "https://nuton.group"
+},
+"export": {
+  "include": ["src", "examples", "LICENSE.txt", "WeatherCall.h"],
+  "exclude": ["**/.*","test/**/*","assets/**/*","boards/**/*","main.cpp"]
+},
+"license": "MIT",
+"frameworks": "arduino",
+"platforms": "espressif32",
+"build": {
+  "libArchive": false
+}
+}
