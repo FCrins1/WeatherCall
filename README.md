@@ -5,9 +5,9 @@
 Required : ArduinoJson <a href="https://arduinojson.org/">.
 
 ## Features
-Library to get current weather and forecast from openweather in various variables, inspired by dushyantahuja/SimpleWeather; tested on ESP32. Require ArduinoJson
-10 times 3h forecast in 14 weather forecast variable
-19 current weather variable
+Library to get current weather and forecast from openweather in various variables, inspired by dushyantahuja/SimpleWeather; tested on ESP32. Require ArduinoJson. 
+10 times 3h forecast in 14 weather forecast variable. 
+19 current weather variable. 
 ## Quickstart
 
 ### WeatherCall
