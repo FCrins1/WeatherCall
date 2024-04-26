@@ -5,13 +5,13 @@
 
 //**************************************SETTINGS******************************************************
 // Replace with your wifi credentials
-const char * ssid = "WiFi-2.4-EC1B";
-const char * password = "TRUCALACON3";
+const char * ssid = "XXXXXXXXXXXXXXXXXXS";
+const char * password = "YYYYYYYYYYYYY";
 
 // Get and API Key by registering on
-// https://openweathermap.org/api
+// https://openweathermap.org/apiS
 
-String Key = "82ded39778699b0514b9d169486b1ae2";
+String Key = "ZZZZZZZZZZZZ";
 // Example:
 //String Key = "82ded39778699b0514b9d169486b1ae5";
 
